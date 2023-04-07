@@ -26,4 +26,4 @@ pip3 install example
 
 ## Authors
 
-* [the-young-tech](https://github.com/the-young-tech) - Programming
+* [the-young-tech](https://github.com/the-young-tech) - Creator
