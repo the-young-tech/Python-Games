@@ -18,7 +18,6 @@ You will need to install Python (linked below) and the imported modules if don't
 pip install example
 or
 pip3 install example
-
 ```
 ## Built With
 
